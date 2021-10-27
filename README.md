@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denise Hermoza</h1>
 <h3 align="center">Fullstack developer Batch #693 at Le Wagon Lima, former Marketing Data Analyst and Telecom Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/deniseh012" target="blank"><img src="https://img.shields.io/twitter/follow/deniseh012?logo=twitter&style=for-the-badge" alt="deniseh012" /></a> </p>
 
 - 🔭 I’m currently working on [WeFindPets](http://www.wefindpets.online/)
 
