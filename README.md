@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denise Hermoza</h1>
-<h3 align="center">Fullstack developer Batch #693 at Le Wagon Lima, former Marketing Data Analyst and Telecom Engineer</h3>
+<h3 align="center">Full Stack developer Batch #693 at Le Wagon, former Marketing Data Analyst and Telecom Engineer</h3>
 
 
 - 🔭 I’m currently working on [WeFindPets](http://www.wefindpets.online/)
@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhermoza&show_icons=true&locale=en&layout=compact" alt="dhermoza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhermoza&" alt="dhermoza" /></p>
+
 
