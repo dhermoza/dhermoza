@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [WeFindPets](http://www.wefindpets.online/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **denise.hermoza@pucp.pe**
 
