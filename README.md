@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **denise.hermoza@pucp.pe**
 
-- 📄 Know about my experiences [https://optimistic-perlman-2de1f9.netlify.app/](https://optimistic-perlman-2de1f9.netlify.app/)
+- 📄 Know about my experiences [portfolio](https://optimistic-perlman-2de1f9.netlify.app/)
 
 - ⚡ Fun fact **I love houseplants, hiking and this year I plan to do a  4-5day hike each month**
 
