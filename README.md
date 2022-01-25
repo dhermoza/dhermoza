@@ -2,15 +2,15 @@
 <h3 align="center">Full Stack developer Batch #693 at Le Wagon, former Marketing Data Analyst and Telecom Engineer</h3>
 
 
-- 🔭 I’m currently working on [WeFindPets](http://www.wefindpets.online/)
+- 🔭 I’m currently working on [Velvet](https://velvet-frontend.herokuapp.com/)
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **denise.hermoza@pucp.pe**
 
-- 📄 Know about my experiences [https://flowcv.me/denise-hermoza](https://flowcv.me/denise-hermoza)
+- 📄 Know about my experiences [https://optimistic-perlman-2de1f9.netlify.app/](https://optimistic-perlman-2de1f9.netlify.app/)
 
-- ⚡ Fun fact **I love houseplants and eco friendly habits**
+- ⚡ Fun fact **I love houseplants, hiking and this year I plan to do a  4-5day hike each month**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
